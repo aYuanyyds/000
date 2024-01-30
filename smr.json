@@ -15,7 +15,7 @@
   "sites": [
     {
       "key": "js_豆瓣热播",
-      "name": "㊗️平安喜乐┃万事胜意",
+      "name": "㊗️平安喜乐┃万事胜意--",
       "type": 3,
       "api": "./lib/Api.js",
       "searchable": 0,
