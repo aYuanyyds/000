@@ -7,7 +7,7 @@
       "name": "live",
       "type": 0,
       "playerType": 1,
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/aYuanyyds/001/main/v.txt",
+      "url": "/lib/v.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
