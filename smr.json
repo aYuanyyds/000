@@ -44,16 +44,6 @@
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
     },
-   {
-      "key": "玩偶哥哥",
-      "name": "玩偶⚗️臻享4K",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
-    },
     {
       "key": "一青叶我_开心玩偶",
       "name": "开心🍹臻享4K",
@@ -87,18 +77,16 @@
       "filterable": 1,
       "ext": "./lib/alisusu.json"
     },
-  {
-      "key":"Hdhive",
-      "name":"影巢🚜臻享4K",
-      "type":3,
-      "api":"csp_Hdhive",
-      "jar": "./lib/PG.jar",
-      "quickSearch":1,
-      "changeable":1,
-      "filterable":1, 
-      "timeout":30, 
-      "ext":"./lib/PG推送.json$$$null$$$1"
-},
+      {
+      "key": "厂长",
+      "name": "厂长🏭蓝光",
+      "type": 3,
+      "api": "./lib/drpy.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "./lib/cangzan.js"
+    },
     {
       "key": "csp_Free",
       "name": "🌱Free┃影视",
