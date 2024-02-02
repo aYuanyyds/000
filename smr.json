@@ -570,7 +570,7 @@
     },
     {
       "key": "js_88看球",
-      "name": "🏀┃八八┃看球",
+      "name": "🏀八八┃看球",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "searchable": 0,
@@ -580,7 +580,7 @@
     },
     {
       "key": "js_直播",
-      "name": "🏀┃JRK┃直播",
+      "name": "🏀JRK┃直播",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "searchable": 0,
