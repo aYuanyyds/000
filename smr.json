@@ -45,17 +45,6 @@
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
     },
     {
-      "key": "一青叶我_开心玩偶",
-      "name": "开心🍹臻享4K",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "jar": "./lib/ttkx.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/kaixinwogg.json"
-    },
-    {
       "key": "Gitcafe",
       "name": "云盘🧓臻享4K",
       "type": 3,
@@ -76,16 +65,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/alisusu.json"
-    },
-      {
-      "key": "厂长",
-      "name": "厂长🏭蓝光",
-      "type": 3,
-      "api": "./lib/drpy.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "./lib/cangzan.js"
     },
     {
       "key": "csp_Free",
