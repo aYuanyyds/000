@@ -90,11 +90,9 @@
       "key": "csp_骚火",
       "name": "🅱️骚火影视|T追剧",
       "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/骚火影视.json"
+      "playerType": "2",
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/骚火.js"
     },
     {
       "key": "零三影院",
