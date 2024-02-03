@@ -38,10 +38,10 @@
       "name": "👽玩偶哥哥┃4K弹幕",
       "type": 3,
       "api": "csp_WoGG",
-     "jar": "./lib/fty.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
+      "jar": "./lib/fty.jar",
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
     },
     {
@@ -579,14 +579,17 @@
       "ext": "./lib/88看球.js"
     },
     {
-      "key": "js_直播",
-      "name": "🏀JRK┃直播",
+      "key": "88js",
+      "name": "⚽ 88┃看球",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "csp_Kanqiu",
+      "jar": "./lib/fty.jar",
+      "style": {
+        "type": "list"
+      },
       "searchable": 0,
       "quickSearch": 0,
-      "filterable": 0,
-      "ext": "./lib/JRKAN.js"
+      "changeable": 0
     },
     {
       "key": "mtv_xp_动漫巴士",
