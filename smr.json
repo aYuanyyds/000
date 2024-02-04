@@ -35,7 +35,7 @@
     },
     {
       "key": "玩偶哥哥",
-      "name": "👽玩偶哥哥┃4K弹幕",
+      "name": "👽玩偶┃弹幕4k",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
@@ -66,6 +66,23 @@
       "filterable": 1,
       "ext": "./lib/alisusu.json"
     },
+{
+      "key": "小胡",
+      "name": "🥳小胡┃影视4k",
+      "type": 1,
+      "playerType": 1,
+      "api": "http://xh1.xn--yetu07f.icu/api.php/provide/vod/"
+    },
+{
+      "key": "素白白影视",
+      "name": "🍹素白┃蓝光",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./lib/XBPQ.jar",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "./lib/subaibai.json"
+    },
     {
       "key": "csp_Free",
       "name": "🌱Free┃影视",
@@ -95,17 +112,6 @@
       "filterable": 1,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/骚火电影.js"
-    },
-    {
-      "key": "南瓜",
-      "name": "🎃南瓜┃App",
-      "type": 3,
-      "api": "csp_NanGua",
-      "jar": "./lib/fty.jar",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
     },
     {
       "key": "零三影院",
@@ -424,7 +430,7 @@
       "name": "🐨速映┃影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://notabug.org/dongchenys/pt/raw/json/jar/spider1.png",
+      "jar": "./lib/spider1.png",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -510,6 +516,17 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/农民影视.json"
+    },
+    {
+      "key": "南瓜",
+      "name": "🎃南瓜┃App",
+      "type": 3,
+      "api": "csp_NanGua",
+      "jar": "./lib/fty.jar",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "csp_xBPQ_玖八",
