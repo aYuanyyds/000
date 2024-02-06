@@ -425,6 +425,18 @@
       "jar": "./lib/XBPQ.jar",
       "ext": "./lib/bt.json"
     },
+{
+      "key": "地瓜",
+      "name": "🍉地瓜┃超清",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/xiaohu.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "https://www.qiqiguai.cn/api.php/app/"
+    },
     {
       "key": "meowtv_syys",
       "name": "🐨速映┃影视",
@@ -586,6 +598,21 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
+    },
+    {
+      "key": "Bili",
+      "name": "🅱哔哩┃哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "./lib/fan.txt",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "./lib/bilibili.json"
     },
     {
       "key": "JustLive",
