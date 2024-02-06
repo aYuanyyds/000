@@ -430,7 +430,7 @@
       "name": "🍉地瓜┃超清",
       "type": 3,
       "api": "csp_AppYsV2",
-      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/xiaohu.jar",
+      "jar": "./lib/xiaohu.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
