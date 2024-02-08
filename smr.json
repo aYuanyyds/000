@@ -44,16 +44,17 @@
       "jar": "./lib/fty.jar",
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
     },
-    {
-      "key": "Gitcafe",
-      "name": "🧓云盘┃臻享4K",
+{
+      "key": "csp_Panda_玩偶哥哥",
+      "name": "⚗️玩偶┃臻享4K",
+      "api": "csp_Wogg",
+      "jar": "http://like.xn--z7x900a.live:66/jar/PandaQ240208.jar;md5;888A64F65AAB54892980DED5C6DA9A6E",
       "type": 3,
-      "api": "csp_Paper",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./lib/HeChengChaXiu.jar",
-      "ext": "./lib/PG推送.json"
+      "playerType": 2,
+      "timeout": 30,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
     },
     {
       "key": "csp_XYQHikerAL_阿里苏苏",
