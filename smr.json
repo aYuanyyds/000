@@ -108,10 +108,10 @@
       "key": "js_骚火电影",
       "name": "🔥骚火┃影视",
       "type": 3,
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "./lib/drpy2.min.js",
       "ext": "./lib/骚火电影.js"
     },
     {
