@@ -136,7 +136,7 @@
     },
     {
       "key": "暴风采集",
-      "name": "🚄暴风┃影音",
+      "name": "🚄暴风┃网页",
       "type": 1,
       "api": "https://app.bfzyapi.com/api.php/provide/vod/",
       "playUrl": "",
@@ -166,7 +166,7 @@
     },
    {
       "key": "csp_SNzy",
-      "name": "🐉索尼┃蓝光",
+      "name": "🐉索尼┃网页",
       "type": 1,
       "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -206,7 +206,7 @@
     },
   {
       "key": "49zy",
-      "name": "🍒四九┃蓝光",
+      "name": "🍒四九┃网页",
       "type": 1,
       "api": "https://49zyw.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -249,7 +249,7 @@
     },
     {
       "key": "csp_xml_ikun",
-      "name": "🐔爱坤┃蓝光",
+      "name": "🐔爱坤┃网页",
       "type": 1,
       "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
       "searchable": 1,
@@ -293,7 +293,7 @@
     },
     {
       "key": "乐视采集",
-      "name": "🏜️乐视┃蓝光",
+      "name": "🏜️乐视┃网页",
       "type": 1,
       "playerType": 2,
       "searchable": 1,
@@ -335,7 +335,7 @@
     },
     {
       "key": "快云资源",
-      "name": "🦚快云┃超清",
+      "name": "🦚快云┃网页",
       "type": 1,
       "api": "https://kuaiyun-api.com/api.php/provide/vod/",
       "searchable": 1,
@@ -380,7 +380,7 @@
     },
     {
       "key": "量子资源",
-      "name": "🥑量子┃超清",
+      "name": "🥑量子┃网页",
       "type": 1,
       "api": "http://cj.lziapi.com/api.php/provide/vod/",
       "searchable": 1,
