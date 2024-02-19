@@ -44,28 +44,6 @@
       "jar": "./lib/fty.jar",
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
     },
-{
-      "key": "csp_XYQHikerAL_土豆",
-      "name": "土豆🥔臻享4K",
-      "type": 3,
-      "jar": "./lib6/XYQ.jar",
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib6/tudou.json"
-    },
-{
-      "key": "csp_xpath_yinfans",
-      "name": "音范丝💥蓝光4K",
-      "type": 3,
-      "api": "csp_XPath",
-      "jar": "./lib6/999.png",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib6/infans.json"
-    },
     {
       "key": "js_骚火电影",
       "name": "🔥骚火┃影视",
@@ -123,66 +101,6 @@
                 "播放列表": "<a&&</a>",
                 "分类url": "https://www.3ayy.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;a",
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
-            }
-        },
-        {
-            "key": "freeok",
-            "name": "🌟free┃BPQ",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "playerType": "2",
-            "jar": "./lib6/赞赞.jar",
-            "ext": {
-                "分类url": "https://www.freeok.vip/vod-show/{cateId}-{area}-------{catePg}---{year}.html",
-                "请求头": "User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#Referer$https://www.freeok.vip",
-                "分类": "FREE电影&FREE剧集&FREE动漫&FREE综艺&FREE短剧&FREE少儿",
-                "分类值": "1&2&3&4&12&5",
-                "播放请求头": "User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#Referer$https://www.freeok.vip",
-                "副标题": "<div class=\"module-item-note\">&&</div>",
-                "嗅探词": "m3u8#.m3u8#.mp4#freeok.mp4#/obj/",
-                "线路数组": "data-dropdown-value=&&</div>[不包含:夸克]",
-                "线路标题": "<span>&&</small>",
-                "导演": "导演：&&</div>",
-                "主演": "主演：&&</div>",
-                "简介": "<p>&&</p>"
-            }
-        },
-        {
-            "key": "乌鸦",
-            "name": "🐦乌鸦┃影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./lib6/赞赞.jar",
-            "searchable": 1,
-            "playerType": 2,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "站名": "乌鸦影视",
-                "主页url": "https://wyys.wuyays.top/appto/v1/home/cateData?id=1",
-                "请求头": "User-Agent$Dart/2.19 (dart:io)",
-                "二次截取": "\"data\"*[&&]",
-                "数组": "{&&}",
-                "图片": "\"vod_pic\"*\"&&\"",
-                "标题": "\"vod_name\"*\"&&\"",
-                "副标题": "\"vod_remarks\"*\"&&\"",
-                "链接": "https://wyys.wuyays.top/addons/apptov4/app.php/v1/vod/getVod?id=+\"vod_id\":&&,+_platform=android&__ic=lqGGz9NM4aHVoD8jSoFFcmfeQ0zcjkG0a6dOiCPe4lHMGzMEigPzyXuhccQRZf6D75pAyu5qXZa8Woq50p8Xvf11kZq38Yk6UAkKR0nWIPWyUN%2BrL68%2FTxsj%2Fs%2F%2Bdvz3d9mhjzeyYUyI71OEzzkEnw%3D%3D",
-                "线路数组": "\"player_info\":{&&}",
-                "线路标题": "\"show\"*\"&&\"",
-                "导演": "vod_director\"*\"&&\"",
-                "主演": "vod_actor\"*\"&&\"",
-                "简介": "vod_blurb\"*\"&&\"",
-                "播放二次截取": "&&[替换]",
-                "播放数组": "urls*\\[&&\\]",
-                "播放列表": "{&&}",
-                "跳转播放链接": "\"url\"*\"&&\"",
-                "播放标题": "\"name\"*\"&&\"",
-                "跳转解析": "默认$空#墨鸦内部$https://vip.yybjs.top/home/api?type=ys&uid=2691400&key=bcmqsvwyzACFIPY368&url=#墨鸦VIP$http://110.42.2.247:880//analysis//json//?uid=2496&my=adegilpstxyAEFOQWY&format=json&url=",
-                "播放链接": "解析+\"url\"*\"&&\"",
-                "搜索url": "https://wyys.wuyays.top/addons/apptov4/app.php/v1/vod/getVodSearch?wd={wd}&page=1&type",
-                "搜索模式": "1",
-                "分类url": "https://wyys.wuyays.top/addons/apptov4/app.php/v1/vod/getLists?area=&lang=&year=&order=time&type_id={cateId}&type_name=&page={catePg}&pageSize=21;;u0",
-                "分类": "电影$1#电视剧$2#动漫$3#综艺$4"
             }
         },
         {
@@ -258,7 +176,7 @@
                 "标题": "movie-title txtHide\"*>&&</div",
                 "副标题": "豆瓣评分+div class=\"movie-rating cor4\">&&</div>",
                 "分类": "电影$1#剧集$2#动漫$4#综艺$4",
-                "搜索模式": "0"
+                "搜索模式": "1"
             }
         },
         {
@@ -622,16 +540,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/量子资源网.json"
-    },
-    {
-      "key": "荐片",
-      "name": "🙆荐片┃追剧",
-      "type": 3,
-      "jar": "./lib/XBPQ.jar",
-      "api": "csp_RinHome",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
     },
     {
       "key": "Bili",
