@@ -7,7 +7,7 @@ var rule = {
     url: '/api.php/provide/vod?ac=detail&t=fyclass&pg=fypage&f=',
     class_name: '电影&国剧&美剧&韩剧&动漫',
     class_url: '1&2&3&4&20',
-    tab_rename:{'公众号：小胡不胡':'东辰影视'}, 
+    tab_rename:{'神秘人':'小贾同学'}, 
     推荐: 'json:list;vod_name;vod_pic;vod_remarks;vod_id',
     一级: 'json:list;vod_name;vod_pic;vod_remarks;vod_id',
     二级: `js:
