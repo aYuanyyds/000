@@ -15,7 +15,7 @@
   "sites": [
     {
       "key": "js_豆瓣热播",
-      "name": "㊗️平安喜乐┃万事胜意🏮",
+      "name": "㊗️平安喜乐┃万事胜意",
       "type": 3,
       "api": "./lib/Api.js",
       "searchable": 0,
@@ -700,12 +700,12 @@
     {
       "name": "🎯小盒解析",
       "type": 1,
-      "url": "https://jx.xmflv.com/?url="
+      "url": "http://119.91.123.253:2345/Api/yun.php?url="
     },
     {
       "name": "🎯酷玩解析",
       "type": 0,
-      "url": "http://119.91.123.253:2345/Api/yun.php?url="
+      "url": "https://jx.xmflv.com/?url="
     }
   ],
   "flags": [
