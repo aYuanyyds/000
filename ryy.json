@@ -743,17 +743,6 @@
     "哔 哩",
     "哔 哩 哔 哩"
   ],
-  "spider": "./禁止贩卖;md5;19cc25ee10378e8946ef872ec1de2dfe",
-  "wallpaper": "https://tool.weetai.cn/api",
-  "lives": [
-    {
-      "name": "live",
-      "type": 0,
-      "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }
-  ],
   "rules": [
     {
       "name": "量子",
