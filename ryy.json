@@ -700,12 +700,12 @@
     {
       "name": "🎯小盒解析",
       "type": 1,
-      "url": "http://119.91.123.253:2345/Api/yun.php?url="
+      "url": "https://jx.xmflv.com/?url="
     },
     {
       "name": "🎯酷玩解析",
       "type": 0,
-      "url": "https://jx.xmflv.com/?url="
+      "url": "http://119.91.123.253:2345/Api/yun.php?url="
     }
   ],
   "flags": [
