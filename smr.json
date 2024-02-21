@@ -82,15 +82,45 @@
             "api": "./lib/drpy2.min.js",
             "ext": "./js/百忙无果.js"
         },
-    {
-      "key": "csp_Free",
-      "name": "🌱Free┃影视",
+      {
+      "key": "csp_星辰",
+      "name": "✂️星辰┃追剧",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/Free影视.json"
+      "ext": "./lib/星辰影视.json"
+    },
+    {
+      "key": "csp_量子",
+      "name": "🎀量子┃追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/量子资源网.json"
+    },
+    {
+      "key": "csp_七新",
+      "name": "🍃七新┃追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/七新影视.json"
+    },
+    {
+      "key": "csp_农民",
+      "name": "🕴农民┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/农民影视.json"
     },
     {
       "key": "js_骚火电影",
@@ -125,149 +155,7 @@
       "changeable": 0,
       "ext": "https://www.qiqiguai.cn/api.php/app/"
     },
-    {
-      "key": "零三影院",
-      "name": "🧠零三┃影院",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/零三影院.json"
-    },
-    {
-      "key": "csp_TVB",
-      "name": "☁️云播┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/TVB云播.json"
-    },
-    {
-      "key": "两个BT",
-      "name": "🥪2BT┃秒播",
-      "type": 3,
-      "playerType": 2,
-      "searchable": 1,
-      "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
-      "ext": "./lib/bt.json"
-    },
-    {
-      "key": "meowtv_syys",
-      "name": "🐨速映┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./lib/spider1.png",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/suying.json"
-    },
-    {
-      "key": "COKEMV影院",
-      "name": "🥤可乐┃观影",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/cokemv.json"
-    },
-    {
-      "key": "csp_疯狗",
-      "name": "🐶疯狗┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/疯狗影视.json"
-    },
-    {
-      "key": "csp_米爱",
-      "name": "🌮萌米┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/米爱影视.json"
-    },
-    {
-      "key": "csp_星辰",
-      "name": "✂️星辰┃追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/星辰影视.json"
-    },
-    {
-      "key": "csp_热播",
-      "name": "🌟热播┃之家",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/热播之家.json"
-    },
-    {
-      "key": "csp_达龟",
-      "name": "🐢乌龟┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/达达龟影视.json"
-    },
-    {
-      "key": "csp_七新",
-      "name": "🍃七新┃追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/七新影视.json"
-    },
-    {
-      "key": "csp_农民",
-      "name": "🕴农民┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/农民影视.json"
-    },
-    {
-      "key": "csp_不卡",
-      "name": "📺不卡┃追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/真不卡影视.json"
-    },
-    {
-      "key": "csp_xBPQ_视觉",
-      "name": "🏍视觉┃追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/新视觉影视.json"
-    },
-    {
+      {
       "key": "csp_非凡",
       "name": "🎡非凡┃追剧",
       "type": 3,
@@ -278,14 +166,14 @@
       "ext": "./lib/非凡资源网.json"
     },
     {
-      "key": "csp_量子",
-      "name": "🎀量子┃追剧",
+      "key": "csp_米爱",
+      "name": "🌮萌米┃影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/量子资源网.json"
+      "ext": "./lib/米爱影视.json"
     },
     {
       "key": "暴风采集",
@@ -529,6 +417,58 @@
         "喜剧片"
       ]
     },
+    {
+      "key": "csp_达龟",
+      "name": "🐢乌龟┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/达达龟影视.json"
+    },
+      {
+      "key": "csp_TVB",
+      "name": "☁️云播┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/TVB云播.json"
+    },
+    {
+      "key": "meowtv_syys",
+      "name": "🐨速映┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./lib/spider1.png",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/suying.json"
+    },
+    {
+      "key": "COKEMV影院",
+      "name": "🥤可乐┃观影",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./lib/XBPQ.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/cokemv.json"
+    },
+    {
+      "key": "csp_疯狗",
+      "name": "🐶疯狗┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/疯狗影视.json"
+    },
      {
       "key": "csp_圣城",
       "name": "🕌圣城┃追剧",
@@ -538,6 +478,68 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/圣城影视.json"
+    },
+    {
+      "key": "csp_热播",
+      "name": "🌟热播┃之家",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/热播之家.json"
+    },
+    {
+      "key": "零三影院",
+      "name": "🧠零三┃影院",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/零三影院.json"
+    },
+    {
+      "key": "csp_xBPQ_视觉",
+      "name": "🏍视觉┃追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/新视觉影视.json"
+    },
+      {
+      "key": "csp_Free",
+      "name": "🌱Free┃影视",
+      "type": 3,
+      "jar": "./lib/XBPQ.jar", 
+       "api": "csp_XBPQ",
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 1,
+       "ext": "./lib/Free.json"
+        },
+      {
+      "key": "csp_盒子",
+      "name": "🎦盒子┃秒播",
+      "type": 3,
+      "jar": "./lib/XBPQ.jar", 
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/hezi.json"
+        },
+      {
+      "key": "两个BT",
+      "name": "🥪2BT┃秒播",
+      "type": 3,
+      "playerType": 2,
+      "searchable": 1,
+      "api": "csp_XBPQ",
+      "jar": "./lib/XBPQ.jar",
+      "ext": "./lib/bttwo.json"
     },
     {
       "key": "Bili",
