@@ -156,25 +156,16 @@
       "ext": "https://www.qiqiguai.cn/api.php/app/"
     },
       {
-      "key": "csp_非凡",
-      "name": "🎡非凡┃追剧",
+      "key": "csp_盒子",
+      "name": "🎯盒子┃秒播",
       "type": 3,
+      "jar": "./lib/XBPQ.jar", 
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/非凡资源网.json"
-    },
-    {
-      "key": "csp_米爱",
-      "name": "🌮萌米┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/米爱影视.json"
-    },
+      "ext": "./lib/hezi.json"
+        },
     {
       "key": "暴风采集",
       "name": "🚄暴风┃网页",
@@ -418,6 +409,26 @@
       ]
     },
     {
+      "key": "csp_米爱",
+      "name": "🌮萌米┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/米爱影视.json"
+    },
+    {
+      "key": "csp_非凡",
+      "name": "🎡非凡┃追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/非凡资源网.json"
+    },
+    {
       "key": "csp_达龟",
       "name": "🐢乌龟┃影视",
       "type": 3,
@@ -427,7 +438,7 @@
       "filterable": 1,
       "ext": "./lib/达达龟影视.json"
     },
-      {
+    {
       "key": "csp_TVB",
       "name": "☁️云播┃影视",
       "type": 3,
@@ -469,7 +480,7 @@
       "filterable": 1,
       "ext": "./lib/疯狗影视.json"
     },
-     {
+   {
       "key": "csp_圣城",
       "name": "🕌圣城┃追剧",
       "type": 3,
@@ -509,7 +520,7 @@
       "filterable": 1,
       "ext": "./lib/新视觉影视.json"
     },
-      {
+    {
       "key": "csp_Free",
       "name": "🌱Free┃影视",
       "type": 3,
@@ -519,19 +530,8 @@
        "quickSearch": 1,
        "filterable": 1,
        "ext": "./lib/Free.json"
-        },
-      {
-      "key": "csp_盒子",
-      "name": "🎦盒子┃秒播",
-      "type": 3,
-      "jar": "./lib/XBPQ.jar", 
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/hezi.json"
-        },
-      {
+    },
+     {
       "key": "两个BT",
       "name": "🥪2BT┃秒播",
       "type": 3,
