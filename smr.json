@@ -17,8 +17,8 @@
       "key": "js_豆瓣热播",
       "name": "㊗️平安喜乐┃万事胜意🏮",
       "type": 3,
-      "jar": "./lib/fty.jar",
       "api": "csp_DouDou",
+      "jar": "./lib/fty.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
