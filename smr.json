@@ -563,7 +563,7 @@
       "api": "./lib/drpy2.min.js",
       "searchable": 0,
       "changeable": 0,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/aYuanyyds/001/main/justlive.js"
+      "ext": "./lib/justlive.js"
     },
     {
       "key": "88js",
