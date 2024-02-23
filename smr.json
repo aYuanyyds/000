@@ -18,7 +18,7 @@
       "name": "㊗️平安喜乐┃万事胜意🏮",
       "type": 3,
             "type": 3,
-            "api": "./api/drpy2.min.js",
+            "api": "./lib/drpy2.min.js",
             "ext": "./lib/douban.js"
         },
     },
