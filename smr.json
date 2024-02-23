@@ -16,11 +16,12 @@
     {
       "key": "js_豆瓣热播",
       "name": "㊗️平安喜乐┃万事胜意🏮",
-      "type": 3,
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/douban.js"
-   },
+      "jar": "./lib/fty.jar",
+      "api": "csp_DouDou",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+        },
    {
       "key": "csp_KungFu404",
       "name": "🌥️阿里┃设置",
